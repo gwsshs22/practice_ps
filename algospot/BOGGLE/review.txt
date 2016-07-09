@@ -1,0 +1,2 @@
+memoization을 적용할 때 한 word 당 한번씩 memoization한다면
+[word length][x][y]로 3개의 int만으로 memoization 가능.
