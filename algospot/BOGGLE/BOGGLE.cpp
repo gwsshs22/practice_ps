@@ -59,7 +59,7 @@ int main() {
       cin >> word;
       cout << word << " ";
       if (hasWord(word)) {
-        cout << "YES" <<endl;
+        cout << "YES" << endl;
       } else {
         cout << "NO" << endl;
       }
